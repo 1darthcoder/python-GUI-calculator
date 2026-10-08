@@ -1,6 +1,7 @@
 # python-GUI-calculator
 A simple desktop calculator built with Python and Tkinter. It opens in its own window with a clickable keypad and a display screen, and supports basic arithmetic plus a few extra tools like percentage, sign change and square root.
-![Calculator Screenshot](calculator-screenshot.png)
+
+   ![Calculator screenshot](calculator-screenshot.png)
 
 **FEATURES**
 addition,subtraction,multiplication and division
